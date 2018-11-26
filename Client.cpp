@@ -18,7 +18,6 @@ using namespace std;
 //Client side
 int main(int argc, char *argv[])
 {
-    // adding comment
     //we need 2 things: ip address and port number, in that order
     if(argc != 3) 
     {
